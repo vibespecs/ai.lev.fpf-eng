@@ -1,0 +1,1116 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:630b3dbecf4eb1648a8a80a48da5f80488b1a7fa5f02b7e29b69d02e6ed2d20f",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Engineering DPF Suite",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#root"
+    },
+    {
+      "anchor": "root-2",
+      "content_hash": "sha256:9f83b8a7e1d558cb466d063fda0969cdcbe2099f59f7f0d67011adf7256e3dd4",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Engineering DPF Suite",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#root-2"
+    },
+    {
+      "anchor": "start-with-the-problem-in-front-of-you",
+      "content_hash": "sha256:31f59a76f08d91f4c1d3c1ed730fe4e8a2f0b840fd07b4db928edf67f65c699c",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Start with the problem in front of you",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#start-with-the-problem-in-front-of-you"
+    },
+    {
+      "anchor": "choose-a-dpf",
+      "content_hash": "sha256:70d164e1664b0461602e010242eb9920422829ef42d09b84f92516af486582ed",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Choose a DPF",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#choose-a-dpf"
+    },
+    {
+      "anchor": "published-dpfs",
+      "content_hash": "sha256:5aac2d596f4023461215cb27fc730ea8e95ad4d34c28358845371cc7fdcac492",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Published DPFs",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#published-dpfs"
+    },
+    {
+      "anchor": "looking-for-development-recommendations",
+      "content_hash": "sha256:c310a90d512bfc51e603d55c0a75e564f6295d6f55a4780aa28fe47dcce70141",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Looking for development recommendations?",
+      "line": 98,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#looking-for-development-recommendations"
+    },
+    {
+      "anchor": "work-with-an-ai-assistant",
+      "content_hash": "sha256:168453480ab7411c253200d5cd22513c80839fa087289e7e3667e6bea8b87347",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Work with an AI assistant",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#work-with-an-ai-assistant"
+    },
+    {
+      "anchor": "what-to-read-next",
+      "content_hash": "sha256:fbb04083df2a8589b6340e41f190b09d67ccbbb63c6ef6622775128535a05493",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "What to read next",
+      "line": 117,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#what-to-read-next"
+    },
+    {
+      "anchor": "suite-scope-and-membership",
+      "content_hash": "sha256:ee3c5037c2b7083c5ed3dd176cd961faf57f73f04e18366b033a58f293f8f4ac",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Suite scope and membership",
+      "line": 129,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#suite-scope-and-membership"
+    },
+    {
+      "anchor": "publication-scope",
+      "content_hash": "sha256:c8a0782a368c5164df6552f33c66e452149ea900c52cca4885c59178b6d060bd",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Publication scope",
+      "line": 141,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#publication-scope"
+    },
+    {
+      "anchor": "sources-revisions-and-citation",
+      "content_hash": "sha256:7c36d39f12ece85b6ec15e927fbb2d97d01abfcc91582ceab9576d3e012f1611",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Sources, revisions and citation",
+      "line": 145,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#sources-revisions-and-citation"
+    },
+    {
+      "anchor": "license-and-reuse",
+      "content_hash": "sha256:9d92cba1fd1e6794010e86bb0e77911d6ead3655baf6e67637765e4898455f04",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "License and reuse",
+      "line": 155,
+      "uri": "spec://ai.lev/fpf-eng/pub/README#license-and-reuse"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:db05787e6c6c97500e11c7c3cd2b7b00e9f570ff8f3e1bfe80c276ac1bc1cc55",
+      "doc_path": "pub/REFERENCE",
+      "file": "vibevm/vibespecs/pub/REFERENCE.md",
+      "heading": "Engineering DPF Suite Reference",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/REFERENCE#root"
+    },
+    {
+      "anchor": "root-2",
+      "content_hash": "sha256:eb403416806d2268f4a9ed11449b104463907ce384f2b1869a592cd5b71d89a1",
+      "doc_path": "pub/REFERENCE",
+      "file": "vibevm/vibespecs/pub/REFERENCE.md",
+      "heading": "Engineering DPF Suite Reference",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng/pub/REFERENCE#root-2"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:e2ea66172a19d6a00faaed87c49e0520c87ead7577e3546c9df62aac2dc34624",
+      "doc_path": "pub/reference/can-protective-review-work-with-the-capacity-we",
+      "file": "vibevm/vibespecs/pub/reference/can-protective-review-work-with-the-capacity-we.md",
+      "heading": "Can protective review work with the capacity we have?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/can-protective-review-work-with-the-capacity-we#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:eda046f399cfd4c58c1886d19e5c3cdf10a52c1f57198f9bab38e639269fb3ab",
+      "doc_path": "pub/reference/can-we-recommend-a-repair-before-it-is-ready-to",
+      "file": "vibevm/vibespecs/pub/reference/can-we-recommend-a-repair-before-it-is-ready-to.md",
+      "heading": "Can we recommend a repair before it is ready to begin?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/can-we-recommend-a-repair-before-it-is-ready-to#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:a94bc88c7c48f7e60fae37d27ecc752a657697a2f730e4510371419e8f2b31c8",
+      "doc_path": "pub/reference/citation",
+      "file": "vibevm/vibespecs/pub/reference/citation.md",
+      "heading": "Citation",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/citation#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:27709bcba52f0c633cb17ac36ffc61205623bde2a1f642211e49741dd8fa8bf8",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "Combine results and handle a missing input",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#root"
+    },
+    {
+      "anchor": "what-must-be-available-through-the-method-vertical",
+      "content_hash": "sha256:a48f06417739f1fee158b4b82b909c1af89aae326cd59b112d194fedb5d53129",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "What must be available through the Method vertical?",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#what-must-be-available-through-the-method-vertical"
+    },
+    {
+      "anchor": "when-does-learning-a-movement-also-require-developing-its",
+      "content_hash": "sha256:e6c0f5eea38e8f7f1329ec4917d6cf9cbabe2017806b084aac847bb07827ef57",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "When does learning a movement also require developing its teaching?",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#when-does-learning-a-movement-also-require-developing-its"
+    },
+    {
+      "anchor": "how-can-attention-move-while-the-whole-action-continues",
+      "content_hash": "sha256:46ee3a60b85bc6bfa2c91972fe77fad0820e9dd4d8ce6d97fcef7bb9abf5259b",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "How can attention move while the whole action continues?",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#how-can-attention-move-while-the-whole-action-continues"
+    },
+    {
+      "anchor": "when-the-way-of-working-is-itself-the-problem",
+      "content_hash": "sha256:75c5c37d683c3a16707f37405465d1924b38fe89b0e015a297e4f11c3a3694c2",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "When the way of working is itself the problem",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#when-the-way-of-working-is-itself-the-problem"
+    },
+    {
+      "anchor": "when-source-material-should-change-a-pattern-language",
+      "content_hash": "sha256:4e103d07ba0e2a9f7f498ba42e3386bd60cf54212a47966ae45106097faefd5a",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "When source material should change a pattern language",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#when-source-material-should-change-a-pattern-language"
+    },
+    {
+      "anchor": "when-several-management-views-describe-the-same-work",
+      "content_hash": "sha256:9772bf0a713ede35cd9e2c218a002856d5355343f838d87d18b96f204256dbad",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "When several management views describe the same work",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#when-several-management-views-describe-the-same-work"
+    },
+    {
+      "anchor": "when-the-case-or-a-relied-on-source-changes",
+      "content_hash": "sha256:bd04841a48edf84dd9ae95d97f584e7c6521c36b8d5e1b0ec362edd73e0206d0",
+      "doc_path": "pub/reference/combine-results-and-handle-a-missing-input",
+      "file": "vibevm/vibespecs/pub/reference/combine-results-and-handle-a-missing-input.md",
+      "heading": "When the case or a relied-on source changes",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/combine-results-and-handle-a-missing-input#when-the-case-or-a-relied-on-source-changes"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6b2ad19ce6bb5a1ec36a912c6323ee3c3dcc0f078683b13e2a33abba17f40a62",
+      "doc_path": "pub/reference/connect-contributions-concerns-and-consequences",
+      "file": "vibevm/vibespecs/pub/reference/connect-contributions-concerns-and-consequences.md",
+      "heading": "Connect contributions, concerns and consequences across a whole project",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/connect-contributions-concerns-and-consequences#root"
+    },
+    {
+      "anchor": "recover-the-needed-contribution-from-the-whole-result",
+      "content_hash": "sha256:a4cc3509b8d9f54758f39a59a9554afe7bd5e53c6fe6c23a9c09f0d21fb596ae",
+      "doc_path": "pub/reference/connect-contributions-concerns-and-consequences",
+      "file": "vibevm/vibespecs/pub/reference/connect-contributions-concerns-and-consequences.md",
+      "heading": "Recover the needed contribution from the whole result",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/connect-contributions-concerns-and-consequences#recover-the-needed-contribution-from-the-whole-result"
+    },
+    {
+      "anchor": "resolve-the-conflict-at-the-relation-that-failed",
+      "content_hash": "sha256:c23012f2ed4900ff72e7ea6585f4c81ac762a88e8c45cb4ccb9b90448f005ae6",
+      "doc_path": "pub/reference/connect-contributions-concerns-and-consequences",
+      "file": "vibevm/vibespecs/pub/reference/connect-contributions-concerns-and-consequences.md",
+      "heading": "Resolve the conflict at the relation that failed",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/connect-contributions-concerns-and-consequences#resolve-the-conflict-at-the-relation-that-failed"
+    },
+    {
+      "anchor": "carry-the-reasoning-into-a-project-that-changes-the-organization",
+      "content_hash": "sha256:a813986918de352d07728319dff4bfa0c5810ad1bc08359d49c9cce6202fa1f6",
+      "doc_path": "pub/reference/connect-contributions-concerns-and-consequences",
+      "file": "vibevm/vibespecs/pub/reference/connect-contributions-concerns-and-consequences.md",
+      "heading": "Carry the reasoning into a project that changes the organization",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/connect-contributions-concerns-and-consequences#carry-the-reasoning-into-a-project-that-changes-the-organization"
+    },
+    {
+      "anchor": "establish-and-exercise-the-arrangement",
+      "content_hash": "sha256:631de27ceffffe7f20850b470d51f3887ed5783cef9c5f05a8bfce3eed31d971",
+      "doc_path": "pub/reference/connect-contributions-concerns-and-consequences",
+      "file": "vibevm/vibespecs/pub/reference/connect-contributions-concerns-and-consequences.md",
+      "heading": "Establish and exercise the arrangement",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/connect-contributions-concerns-and-consequences#establish-and-exercise-the-arrangement"
+    },
+    {
+      "anchor": "reconsider-the-affected-choice-when-conditions-change",
+      "content_hash": "sha256:52dd06d53e693c924cfe5900eb56e5762f8e3b76f2cd6e137998f362607d5750",
+      "doc_path": "pub/reference/connect-contributions-concerns-and-consequences",
+      "file": "vibevm/vibespecs/pub/reference/connect-contributions-concerns-and-consequences.md",
+      "heading": "Reconsider the affected choice when conditions change",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/connect-contributions-concerns-and-consequences#reconsider-the-affected-choice-when-conditions-change"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:c4b764414bdf37c0d9f6a66b2cda89c5d721d249f6d28e2daf55bbe4c90a4c80",
+      "doc_path": "pub/reference/contents",
+      "file": "vibevm/vibespecs/pub/reference/contents.md",
+      "heading": "Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/contents#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ededd2e5bbabc01414974528048fdddf94bbe258aabebcae7f86f184037e1afa",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Find a starting pattern",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#root"
+    },
+    {
+      "anchor": "begin-before-anyone-asks-for-help",
+      "content_hash": "sha256:0737141df2b59b8c0f4c1dabf28dae2d85f0fd93c7f69552c3ff2523e2f9ba49",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Begin before anyone asks for help",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#begin-before-anyone-asks-for-help"
+    },
+    {
+      "anchor": "understand-a-problem-and-prepare-a-recommendation",
+      "content_hash": "sha256:fdf5ec937c04fae17c546547298304bbdaf02ebe43e761eacd47f95d27f963f6",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Understand a problem and prepare a recommendation",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#understand-a-problem-and-prepare-a-recommendation"
+    },
+    {
+      "anchor": "choose-a-strategic-direction-and-bounded-commitment",
+      "content_hash": "sha256:88e2ef53c328bc1f924b4192ab9802cb1002b1b748b10f07c7590fbc53a3070b",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Choose a strategic direction and bounded commitment",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#choose-a-strategic-direction-and-bounded-commitment"
+    },
+    {
+      "anchor": "engineer-a-system-or-a-platform",
+      "content_hash": "sha256:8d7c9c80f9c64336559c85e80257b7faa0299dacf314fd231bdfc12b93424e28",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Engineer a system or a platform",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#engineer-a-system-or-a-platform"
+    },
+    {
+      "anchor": "resolve-a-software-platform-difficulty",
+      "content_hash": "sha256:e1d96c0e56eb1bd70f2deba0412c1e1cf6d3f0e4e93132ae18107695d119beb4",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Resolve a software-platform difficulty",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#resolve-a-software-platform-difficulty"
+    },
+    {
+      "anchor": "connect-separately-governed-meanings-and-representations",
+      "content_hash": "sha256:1f805cd8efde66f9895fac2b65c1428ed853839c6e99d131343824cd8977239b",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Connect separately governed meanings and representations",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#connect-separately-governed-meanings-and-representations"
+    },
+    {
+      "anchor": "improve-a-method-or-an-organization",
+      "content_hash": "sha256:40b4ab2a0a8797353d43355d8b7659275b301da395b4b2b6c31c7fafb2ab8519",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Improve a method or an organization",
+      "line": 111,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#improve-a-method-or-an-organization"
+    },
+    {
+      "anchor": "select-and-use-checklists-without-losing-the-work-question",
+      "content_hash": "sha256:9fda9e86e99cbc226413c091073650666c304611df5a023d67e04993b33056b3",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Select and use checklists without losing the work question",
+      "line": 145,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#select-and-use-checklists-without-losing-the-work-question"
+    },
+    {
+      "anchor": "work-with-rhythmic-relations-in-performance-and-learning",
+      "content_hash": "sha256:e57fc7ddc637b3f5bacd8eb4ff196d5008e7bb71ccf1d789d90572f90286c23b",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Work with rhythmic relations in performance and learning",
+      "line": 160,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#work-with-rhythmic-relations-in-performance-and-learning"
+    },
+    {
+      "anchor": "model-and-change-the-bodily-contribution-to-movement",
+      "content_hash": "sha256:04f91c909ffff8aabd658860131ff505e5fc4500e40f8fcabee9370cd471b4a7",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Model and change the bodily contribution to movement",
+      "line": 181,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#model-and-change-the-bodily-contribution-to-movement"
+    },
+    {
+      "anchor": "develop-a-practice-or-a-person-s-capability",
+      "content_hash": "sha256:9883943fabbcab44bb7773e7ef695bc55f8e86d965ad3809be9f421a96d254b5",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Develop a practice or a person's capability",
+      "line": 196,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#develop-a-practice-or-a-person-s-capability"
+    },
+    {
+      "anchor": "evaluate-instructional-material-for-its-intended-use",
+      "content_hash": "sha256:5f35dcbd9b154e76c423217e44c1979ea0356d93c8f07f6b5086d654ac55701b",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Evaluate instructional material for its intended use",
+      "line": 236,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#evaluate-instructional-material-for-its-intended-use"
+    },
+    {
+      "anchor": "make-an-explanation-understandable-and-usable",
+      "content_hash": "sha256:c428021a31ab7fe50b4593b97d0b16a21ea9ead4a8961936a72189bd0aa9737c",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Make an explanation understandable and usable",
+      "line": 245,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#make-an-explanation-understandable-and-usable"
+    },
+    {
+      "anchor": "keep-an-operation-working",
+      "content_hash": "sha256:4b80e5ec5aace6dcb591c08e2b397c860462d7af9c32bcdfd919e1b40e813c24",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Keep an operation working",
+      "line": 261,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#keep-an-operation-working"
+    },
+    {
+      "anchor": "explain-resource-use-costs-and-operating-accounts",
+      "content_hash": "sha256:622b193200365b58120a04ca9dd31126b8b3a886f008fc7d598d80e2eba60695",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Explain resource use, costs and operating accounts",
+      "line": 296,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#explain-resource-use-costs-and-operating-accounts"
+    },
+    {
+      "anchor": "model-financial-positions-and-effects",
+      "content_hash": "sha256:315d0a325fec6e49f11f1e29c0624d4a0e56f2cd8ac54236b0a3d412fe6726f7",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Model financial positions and effects",
+      "line": 314,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#model-financial-positions-and-effects"
+    },
+    {
+      "anchor": "value-investments-arrange-finance-and-manage-liquidity",
+      "content_hash": "sha256:a46998a52561da261cf7f218235b7a9518958035dc8ead7547b34c7daf8a7889",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Value investments, arrange finance and manage liquidity",
+      "line": 328,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#value-investments-arrange-finance-and-manage-liquidity"
+    },
+    {
+      "anchor": "coordinate-economic-plans-exchanges-and-shared-resources",
+      "content_hash": "sha256:f168cc4e24814c2197eab6af50d48ccf1c8141a4dfbf04f71051e0c5f6698443",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Coordinate economic plans, exchanges and shared resources",
+      "line": 383,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#coordinate-economic-plans-exchanges-and-shared-resources"
+    },
+    {
+      "anchor": "model-dependence-spread-and-protective-action",
+      "content_hash": "sha256:08e3784bbc57baa3928a9a2b1fe0d904123503f5d02a9f8b86b0a47d849989ee",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Model dependence, spread and protective action",
+      "line": 402,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#model-dependence-spread-and-protective-action"
+    },
+    {
+      "anchor": "continue-and-change-a-shared-practice",
+      "content_hash": "sha256:98af6f88c3d3dddf98b99cbdd54e4d501a4b1d81848b5d759cbd4b86621bda1d",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Continue and change a shared practice",
+      "line": 415,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#continue-and-change-a-shared-practice"
+    },
+    {
+      "anchor": "build-a-useful-cultural-or-community-contribution",
+      "content_hash": "sha256:3842b6c0273f874d1291b8faa7bc8be7f80a3634e09ca0bff913e055a5002def",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Build a useful cultural or community contribution",
+      "line": 428,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#build-a-useful-cultural-or-community-contribution"
+    },
+    {
+      "anchor": "make-corporate-decisions-and-sustain-governing-contributions",
+      "content_hash": "sha256:b99e71ff15c07439188265d8337cc57d4242ba85968e6f0233cc44bac33693ec",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Make corporate decisions and sustain governing contributions",
+      "line": 453,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#make-corporate-decisions-and-sustain-governing-contributions"
+    },
+    {
+      "anchor": "fulfil-an-administrative-request-and-improve-its-handling",
+      "content_hash": "sha256:fbc9e4a38faf125dd2cfb0199df506036d655fd66fc000db0794ea5df8590816",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Fulfil an administrative request and improve its handling",
+      "line": 481,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#fulfil-an-administrative-request-and-improve-its-handling"
+    },
+    {
+      "anchor": "maintain-equipment-and-manage-maintenance",
+      "content_hash": "sha256:dc6e4b3aca1eb1df7564cdbdcbc866d093b6b57a7899bbc9026e5e580bb0f11d",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Maintain equipment and manage maintenance",
+      "line": 507,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#maintain-equipment-and-manage-maintenance"
+    },
+    {
+      "anchor": "choose-how-to-use-and-change-engineered-assets",
+      "content_hash": "sha256:1cff07d4e2e3b1708f3fd43b0ef9510956965a6bd1360f70091d0de65c7ac787",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Choose how to use and change engineered assets",
+      "line": 534,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#choose-how-to-use-and-change-engineered-assets"
+    },
+    {
+      "anchor": "qualify-a-research-question-or-choose-a-design",
+      "content_hash": "sha256:b956b5fff2b8ee1411d3a62900ada9afe686d5538350239da2595529f8c33251",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Qualify a research question or choose a design",
+      "line": 570,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#qualify-a-research-question-or-choose-a-design"
+    },
+    {
+      "anchor": "make-research-executable-and-inspect-its-course",
+      "content_hash": "sha256:4117be41d231ad1af3156b4476b4d1afadbf8793a4706dddc736645a2129ea0c",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Make research executable and inspect its course",
+      "line": 581,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#make-research-executable-and-inspect-its-course"
+    },
+    {
+      "anchor": "analyze-a-claim-or-examine-its-credibility",
+      "content_hash": "sha256:3dd35eee8978e8e48a3e699f653dbd6f12fb2bc3f6a12819d0b4ca48c3530f3e",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Analyze a claim or examine its credibility",
+      "line": 590,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#analyze-a-claim-or-examine-its-credibility"
+    },
+    {
+      "anchor": "retain-or-improve-a-research-method",
+      "content_hash": "sha256:00478b21952b0abcf69a8194aa5fe16215428ab38938f2a2e83adfcc4a62501a",
+      "doc_path": "pub/reference/find-a-starting-pattern",
+      "file": "vibevm/vibespecs/pub/reference/find-a-starting-pattern.md",
+      "heading": "Retain or improve a research Method",
+      "line": 605,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/find-a-starting-pattern#retain-or-improve-a-research-method"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:76a5f64169bee2b695b984853f9cf1cfc4778ab971d6a8317d81c8059d3db98c",
+      "doc_path": "pub/reference/how-can-a-team-organise-search-while-keeping",
+      "file": "vibevm/vibespecs/pub/reference/how-can-a-team-organise-search-while-keeping.md",
+      "heading": "How can a team organise search while keeping current service workable?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-a-team-organise-search-while-keeping#root"
+    },
+    {
+      "anchor": "the-result-sought-and-the-work-that-must-continue",
+      "content_hash": "sha256:66908bcea79a260d8c25a20945037b09cbed1ac050bb8fb407f47285e5398455",
+      "doc_path": "pub/reference/how-can-a-team-organise-search-while-keeping",
+      "file": "vibevm/vibespecs/pub/reference/how-can-a-team-organise-search-while-keeping.md",
+      "heading": "The result sought and the work that must continue",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-a-team-organise-search-while-keeping#the-result-sought-and-the-work-that-must-continue"
+    },
+    {
+      "anchor": "compare-complete-ways-to-obtain-the-same-answer",
+      "content_hash": "sha256:cfee5e9313f18cb5e38531fed25a1f7cf97d681ae687a8050f09bb8844df33c7",
+      "doc_path": "pub/reference/how-can-a-team-organise-search-while-keeping",
+      "file": "vibevm/vibespecs/pub/reference/how-can-a-team-organise-search-while-keeping.md",
+      "heading": "Compare complete ways to obtain the same answer",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-a-team-organise-search-while-keeping#compare-complete-ways-to-obtain-the-same-answer"
+    },
+    {
+      "anchor": "make-the-selected-arrangement-effective-and-preserve-the",
+      "content_hash": "sha256:49900b8ece3d7c1cca16715b0c49137ec24f59503430f0c4042149ac5fec12f2",
+      "doc_path": "pub/reference/how-can-a-team-organise-search-while-keeping",
+      "file": "vibevm/vibespecs/pub/reference/how-can-a-team-organise-search-while-keeping.md",
+      "heading": "Make the selected arrangement effective and preserve the experiment's limits",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-a-team-organise-search-while-keeping#make-the-selected-arrangement-effective-and-preserve-the"
+    },
+    {
+      "anchor": "return-the-result-with-the-work-required-to-use-it",
+      "content_hash": "sha256:cba3cd9ad5b4871e94b52a49adc0d2784f65e7ae19892483d4845f8482c4e422",
+      "doc_path": "pub/reference/how-can-a-team-organise-search-while-keeping",
+      "file": "vibevm/vibespecs/pub/reference/how-can-a-team-organise-search-while-keeping.md",
+      "heading": "Return the result with the work required to use it",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-a-team-organise-search-while-keeping#return-the-result-with-the-work-required-to-use-it"
+    },
+    {
+      "anchor": "source-use-and-ordinary-stopping-point",
+      "content_hash": "sha256:70d139d06c19b61dfa2973ea6e8b0d8bd136617bf679b6655df54988e0b69a15",
+      "doc_path": "pub/reference/how-can-a-team-organise-search-while-keeping",
+      "file": "vibevm/vibespecs/pub/reference/how-can-a-team-organise-search-while-keeping.md",
+      "heading": "Source use and ordinary stopping point",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-a-team-organise-search-while-keeping#source-use-and-ordinary-stopping-point"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:984841956b1ab2a9e960220288542dd62922ca04a310fea2784ee1bd729cc583",
+      "doc_path": "pub/reference/how-can-ap242-and-qif-answer-one-configuration",
+      "file": "vibevm/vibespecs/pub/reference/how-can-ap242-and-qif-answer-one-configuration.md",
+      "heading": "How can AP242 and QIF answer one configuration-bound inspection question?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-ap242-and-qif-answer-one-configuration#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8adf3db9af87339a5950be9143e1af2e4e1ab649a05e29bd671612a12c6d4d61",
+      "doc_path": "pub/reference/how-can-two-archive-services-share-staff",
+      "file": "vibevm/vibespecs/pub/reference/how-can-two-archive-services-share-staff.md",
+      "heading": "How can two archive services share staff without losing their commitments?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-two-archive-services-share-staff#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ca8de3aa46503baf61988950ce83e2a50e50ebc4551269c062688ba63c40fae5",
+      "doc_path": "pub/reference/how-can-we-share-a-method-without-losing-the",
+      "file": "vibevm/vibespecs/pub/reference/how-can-we-share-a-method-without-losing-the.md",
+      "heading": "How can we share a method without losing the means to develop it?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-we-share-a-method-without-losing-the#root"
+    },
+    {
+      "anchor": "obtain-an-explanation-and-another-teacher-s-contribution",
+      "content_hash": "sha256:1dae07e61a3205911cfb790e3b041436c977892d3418f5a81c5c2673f2060984",
+      "doc_path": "pub/reference/how-can-we-share-a-method-without-losing-the",
+      "file": "vibevm/vibespecs/pub/reference/how-can-we-share-a-method-without-losing-the.md",
+      "heading": "Obtain an explanation and another teacher's contribution",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-we-share-a-method-without-losing-the#obtain-an-explanation-and-another-teacher-s-contribution"
+    },
+    {
+      "anchor": "when-the-conditions-change",
+      "content_hash": "sha256:a89d8563ebfd17922449bf55c28425c3f2f37f39d88a295518f4c82c27cff389",
+      "doc_path": "pub/reference/how-can-we-share-a-method-without-losing-the",
+      "file": "vibevm/vibespecs/pub/reference/how-can-we-share-a-method-without-losing-the.md",
+      "heading": "When the conditions change",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-can-we-share-a-method-without-losing-the#when-the-conditions-change"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:39ea6401a54acd0068ff4af6e199a46d1a3bb75942fdc529e845d8098360ca2a",
+      "doc_path": "pub/reference/how-do-we-recommend-a-development-direction",
+      "file": "vibevm/vibespecs/pub/reference/how-do-we-recommend-a-development-direction.md",
+      "heading": "How do we recommend a development direction?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-do-we-recommend-a-development-direction#root"
+    },
+    {
+      "anchor": "pursue-a-personal-development-aim-while-shared-work-continues",
+      "content_hash": "sha256:d0f2be8c3ad135cea774a55a74767823f7b74e6060a692adecc49b28df52a89d",
+      "doc_path": "pub/reference/how-do-we-recommend-a-development-direction",
+      "file": "vibevm/vibespecs/pub/reference/how-do-we-recommend-a-development-direction.md",
+      "heading": "Pursue a personal development aim while shared work continues",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-do-we-recommend-a-development-direction#pursue-a-personal-development-aim-while-shared-work-continues"
+    },
+    {
+      "anchor": "recommend-a-programme-before-the-learners-are-known",
+      "content_hash": "sha256:c322359a72f62d88b7fc9fbac40835c029c88d0adb16531b0dcdf87b0fb3336c",
+      "doc_path": "pub/reference/how-do-we-recommend-a-development-direction",
+      "file": "vibevm/vibespecs/pub/reference/how-do-we-recommend-a-development-direction.md",
+      "heading": "Recommend a programme before the learners are known",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-do-we-recommend-a-development-direction#recommend-a-programme-before-the-learners-are-known"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b1ff5177a3b727f310e617b65ee97d183de2a990e3b0542908a0cf3b218a6da2",
+      "doc_path": "pub/reference/how-should-we-obtain-climate-control-for-a",
+      "file": "vibevm/vibespecs/pub/reference/how-should-we-obtain-climate-control-for-a.md",
+      "heading": "How should we obtain climate control for a greenhouse?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/how-should-we-obtain-climate-control-for-a#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:e641e5a107834ef1185cfe3024d89efda1a763e3f98928e139cf74c6a9090a60",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Make an available contribution work in the whole task",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#root"
+    },
+    {
+      "anchor": "a-reminder-for-returning-to-the-whole-task",
+      "content_hash": "sha256:13422502b3ec40d31cdee6353cbe3f66e69264704b6043d01a34cd82335fc180",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A reminder for returning to the whole task",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a-reminder-for-returning-to-the-whole-task"
+    },
+    {
+      "anchor": "expand-the-question-that-matters-now",
+      "content_hash": "sha256:7c4ae6485728dda1b5db5620a6464438dad74430c3cbce7dd6907ef5c033707f",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Expand the question that matters now",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#expand-the-question-that-matters-now"
+    },
+    {
+      "anchor": "choose-and-perform-a-way-to-complete-the-current-task",
+      "content_hash": "sha256:a478e23e79cb6b665419e07f851f98c6842dba8b9ae9c065785affd96a9a2823",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Choose and perform a way to complete the current task",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#choose-and-perform-a-way-to-complete-the-current-task"
+    },
+    {
+      "anchor": "a-reminder-for-the-current-continuation",
+      "content_hash": "sha256:b131c1f557927c75b2d97587e11a246e78f019c596f6c4bd4ba3244bb888e8b4",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A reminder for the current continuation",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a-reminder-for-the-current-continuation"
+    },
+    {
+      "anchor": "case-a-an-agent-must-obtain-an-actual-engineering-result",
+      "content_hash": "sha256:1c7a8ec50303d550b5c1d587e6f40edaa881e5f3d0232e5585234c0a4502bf04",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Case A: an agent must obtain an actual engineering result",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#case-a-an-agent-must-obtain-an-actual-engineering-result"
+    },
+    {
+      "anchor": "understand-a-collaborator-before-choosing-the-next-contribution",
+      "content_hash": "sha256:cb31c8fe463d0cdeec89695a94104e9276b4062c447f2458e51be4e138bf93e3",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Understand a collaborator before choosing the next contribution",
+      "line": 72,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#understand-a-collaborator-before-choosing-the-next-contribution"
+    },
+    {
+      "anchor": "construct-alternatives-from-the-contribution-that-is-at-risk",
+      "content_hash": "sha256:981fe6eab723aba08929911abd674ccef5cd57c14301bdacaf873cebc60e8bdb",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Construct alternatives from the contribution that is at risk",
+      "line": 78,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#construct-alternatives-from-the-contribution-that-is-at-risk"
+    },
+    {
+      "anchor": "choose-an-observation-by-the-work-it-can-change",
+      "content_hash": "sha256:816210fd3973b5c1de5b2a2cdad38dc1cdfeafd5d41c5763e32e8a5b6828217e",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Choose an observation by the work it can change",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#choose-an-observation-by-the-work-it-can-change"
+    },
+    {
+      "anchor": "revise-the-account-and-perform-the-changed-continuation",
+      "content_hash": "sha256:ee5499352595102a2d9bfb1b2f2cc3d301fb97eb3ae67c0b7c8b436288f2508c",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Revise the account and perform the changed continuation",
+      "line": 98,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#revise-the-account-and-perform-the-changed-continuation"
+    },
+    {
+      "anchor": "adapt-the-observation-to-the-participant-and-the-claim",
+      "content_hash": "sha256:602c874745be6543dd4a57a113c2b785f28b8b4e9c333b6bf6995361d57da2b3",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Adapt the observation to the participant and the claim",
+      "line": 108,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#adapt-the-observation-to-the-participant-and-the-claim"
+    },
+    {
+      "anchor": "develop-the-arrangement-across-attempts",
+      "content_hash": "sha256:26f87a5f7b875e9a2fc68d8607ccfbfa3e05b54a294de649fdc2d5f5a2075055",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Develop the arrangement across attempts",
+      "line": 118,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#develop-the-arrangement-across-attempts"
+    },
+    {
+      "anchor": "a-reminder-for-development-across-attempts",
+      "content_hash": "sha256:1e1dad24b43832cd89c27bd3dd02f9f97d9f79b77195e0dfe9465350e5a922b8",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A reminder for development across attempts",
+      "line": 179,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a-reminder-for-development-across-attempts"
+    },
+    {
+      "anchor": "a1-consume-the-returned-premise-while-the-model-stays-fixed",
+      "content_hash": "sha256:23618e763a055093078fc9994fa78dfbb29b8a4db9717894f7f46b48f953c7b2",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A1. Consume the returned premise while the model stays fixed",
+      "line": 185,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a1-consume-the-returned-premise-while-the-model-stays-fixed"
+    },
+    {
+      "anchor": "a2-let-delayed-consequences-change-the-next-choice",
+      "content_hash": "sha256:9c238cc68d03cc71bd758f7344c20b5b0b8003232862d0f5f062df9219380ef8",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A2. Let delayed consequences change the next choice",
+      "line": 199,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a2-let-delayed-consequences-change-the-next-choice"
+    },
+    {
+      "anchor": "a3-construct-informative-experience-before-changing-the",
+      "content_hash": "sha256:94aca41af9815f98ba4eb84e4ef988a58c7f0e69131d1b973c9140f5a0d51803",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A3. Construct informative experience before changing the controller",
+      "line": 216,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a3-construct-informative-experience-before-changing-the"
+    },
+    {
+      "anchor": "case-b-a-timely-cue-must-enter-a-coordinated-bodily-action",
+      "content_hash": "sha256:044297101c94d12d13111895eebf0d8b9967fdf3e0e9110d8e3bd2bea9ad752c",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Case B: a timely cue must enter a coordinated bodily action",
+      "line": 228,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#case-b-a-timely-cue-must-enter-a-coordinated-bodily-action"
+    },
+    {
+      "anchor": "case-c-make-a-repeated-calculation-obtainable-and-adaptable",
+      "content_hash": "sha256:ff746c6098e5ceda4a1b244f1166179739bd18a9942536f62b4bad43ef0be5f5",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Case C: make a repeated calculation obtainable and adaptable",
+      "line": 240,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#case-c-make-a-repeated-calculation-obtainable-and-adaptable"
+    },
+    {
+      "anchor": "available-continuations-when-an-agent-has-a-usable-procedure",
+      "content_hash": "sha256:8340f0012a5961f6fecff1a47b7fcec21ea0715a88cf3bafbb4679f57b5ccdbc",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Available continuations when an agent has a usable procedure",
+      "line": 256,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#available-continuations-when-an-agent-has-a-usable-procedure"
+    },
+    {
+      "anchor": "constituents-and-local-loci",
+      "content_hash": "sha256:d881faf02f2d1effa620f093ee006c6ae50c1c2e87fee72bb57f2bc4e05e8732",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Constituents and local loci",
+      "line": 262,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#constituents-and-local-loci"
+    },
+    {
+      "anchor": "obtaining-relations-selected-by-g",
+      "content_hash": "sha256:5e8b075dec07f38a05d11763c75da66c1ff4bcf17b48f02c21e4455d74b93545",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Obtaining relations selected by G",
+      "line": 277,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#obtaining-relations-selected-by-g"
+    },
+    {
+      "anchor": "constraints-and-potential-continuations",
+      "content_hash": "sha256:65fc2f83f823bd4e9f51acd6d1e78d05c7853d6ec37eca88f32874cf3599637a",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Constraints and potential continuations",
+      "line": 290,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#constraints-and-potential-continuations"
+    },
+    {
+      "anchor": "case-inputs-and-their-scope",
+      "content_hash": "sha256:6945408f49e473b5a3e59d072db8d7bb256e811fcc4ec4bb04cc6ec0534f7f8b",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Case inputs and their scope",
+      "line": 304,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#case-inputs-and-their-scope"
+    },
+    {
+      "anchor": "separate-judgements-and-derived-current-sets",
+      "content_hash": "sha256:cd6f7f1d7e741a0711511b7cca0fc41f8699f6407917b76216aa3db9c4cbd17c",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Separate judgements and derived current sets",
+      "line": 321,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#separate-judgements-and-derived-current-sets"
+    },
+    {
+      "anchor": "a-changed-source-changes-the-available-continuation",
+      "content_hash": "sha256:970234b38e63766175db5bb2e885ee5dcfe8d35387dd0a8d728c21e5830c3ca0",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A changed source changes the available continuation",
+      "line": 358,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a-changed-source-changes-the-available-continuation"
+    },
+    {
+      "anchor": "which-configured-continuation-has-its-conditions-now",
+      "content_hash": "sha256:a8c28dec92cd4528b19ca6b2ac7cc8ba19ade5ebbef125441454ce8b0fb8af04",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Which configured continuation has its conditions now?",
+      "line": 382,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#which-configured-continuation-has-its-conditions-now"
+    },
+    {
+      "anchor": "descriptive-relations-selected-by-gc",
+      "content_hash": "sha256:f21061bc95433310688e496a7efdef7defa96da399f4d1d5f43e9b7aea7ccdbf",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Descriptive relations selected by Gc",
+      "line": 397,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#descriptive-relations-selected-by-gc"
+    },
+    {
+      "anchor": "a-lost-input-and-a-smaller-budget-change-different-continuations",
+      "content_hash": "sha256:99089283fbd938560c7d164eb7fd6a42025374b1f315a29ca78e59f56e1f5682",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "A lost input and a smaller budget change different continuations",
+      "line": 431,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#a-lost-input-and-a-smaller-budget-change-different-continuations"
+    },
+    {
+      "anchor": "can-development-proceed-while-current-work-is-blocked",
+      "content_hash": "sha256:27fdaebc4906c0e5672b8a457c0fd62a993dbdf05fc2b2e979f23a3c81cfe198",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Can development proceed while current work is blocked?",
+      "line": 464,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#can-development-proceed-while-current-work-is-blocked"
+    },
+    {
+      "anchor": "descriptive-relations-selected-by-gd",
+      "content_hash": "sha256:9bfc5a35f1bb416ef0bc4ec9dff93ea3acf1361a83f156dd5d55744b97164b17",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Descriptive relations selected by Gd",
+      "line": 477,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#descriptive-relations-selected-by-gd"
+    },
+    {
+      "anchor": "available-construction-is-different-from-a-qualified-result",
+      "content_hash": "sha256:007ee6c8e43f2f0493982b500c2614106ccfce2dbdaaaaecbc4da0d2ab0f10d7",
+      "doc_path": "pub/reference/make-an-available-contribution-work-in-the",
+      "file": "vibevm/vibespecs/pub/reference/make-an-available-contribution-work-in-the.md",
+      "heading": "Available construction is different from a qualified result",
+      "line": 509,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/make-an-available-contribution-work-in-the#available-construction-is-different-from-a-qualified-result"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:57a0fed80aa658bfecf564fdfe84c3924b18165f9c0fc563f5d813e613e41dc7",
+      "doc_path": "pub/reference/should-sensorco-prepare-a-service-trial-or",
+      "file": "vibevm/vibespecs/pub/reference/should-sensorco-prepare-a-service-trial-or.md",
+      "heading": "Should SensorCo prepare a service trial or continue with devices?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/should-sensorco-prepare-a-service-trial-or#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:40f48488111cb323d9d8d612c14f4e26b773db02d955ab0ad50a686d0abceb41",
+      "doc_path": "pub/reference/should-we-scale-a-partner-dance-event-after-one",
+      "file": "vibevm/vibespecs/pub/reference/should-we-scale-a-partner-dance-event-after-one.md",
+      "heading": "Should we scale a partner dance event after one successful showcase?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/should-we-scale-a-partner-dance-event-after-one#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:941b975a034a948dd1f59f1cf3c38735de0618f2228225e0d856e7ab589ed74d",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "They understand or agree; why does the needed work still not follow?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#root"
+    },
+    {
+      "anchor": "recover-the-question-and-develop-the-reasons",
+      "content_hash": "sha256:b9ef9f76063184171e3b4da612670c6fff8f11c45c4017e20aa9999109795d49",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Recover the question and develop the reasons",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#recover-the-question-and-develop-the-reasons"
+    },
+    {
+      "anchor": "examine-the-proposed-means-and-affected-concerns",
+      "content_hash": "sha256:4360520ebd7cbca608649371a384f06deab2ad1aace692084571b83d9f8f0872",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Examine the proposed means and affected concerns",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#examine-the-proposed-means-and-affected-concerns"
+    },
+    {
+      "anchor": "find-the-contribution-that-is-still-missing",
+      "content_hash": "sha256:17dfe1d6eda91e3de759b853543ef06ca52f633b1a9f9bc436b2f8f2a7ed407f",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Find the contribution that is still missing",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#find-the-contribution-that-is-still-missing"
+    },
+    {
+      "anchor": "connect-the-returned-result-to-its-use",
+      "content_hash": "sha256:7bf68e746ed52e386121b0745fab83ebb346b0f36c0ed39541df5709b2a9aea3",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Connect the returned result to its use",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#connect-the-returned-result-to-its-use"
+    },
+    {
+      "anchor": "purchase-case-agreement-survives-the-loss-of-support",
+      "content_hash": "sha256:de701856f78a25fa69dc4f5294b0ec1af944bd7c33495b603eccc4a56315b8ef",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Purchase case: agreement survives the loss of support",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#purchase-case-agreement-survives-the-loss-of-support"
+    },
+    {
+      "anchor": "revise-the-proposed-data-use-before-arranging-the-trial",
+      "content_hash": "sha256:7c5db911605ad97a2286eaf012ab0ee38b7eb2285fb1f575276d5b2d54f91a2c",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Revise the proposed data use before arranging the trial",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#revise-the-proposed-data-use-before-arranging-the-trial"
+    },
+    {
+      "anchor": "carry-the-chosen-conditions-into-the-trial-and-launch",
+      "content_hash": "sha256:5b6cce4757fd9b60e1b09c0b37f02372ad4897a4d422c554c958d958a5f814db",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Carry the chosen conditions into the trial and launch",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#carry-the-chosen-conditions-into-the-trial-and-launch"
+    },
+    {
+      "anchor": "internal-change-case-distinguish-choosing-the-action-from",
+      "content_hash": "sha256:f68fa7486283303edaf68243187c1f8a662342efec2b714df43278934446c154",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "Internal-change case: distinguish choosing the action from performing it",
+      "line": 125,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#internal-change-case-distinguish-choosing-the-action-from"
+    },
+    {
+      "anchor": "a-working-mantra-and-the-continuations-it-leaves-open",
+      "content_hash": "sha256:3a9a4e7a8982119e65d10f44a359f3e4dde4d465932650f907f350d88bc432c3",
+      "doc_path": "pub/reference/they-understand-or-agree-why-does-the-needed",
+      "file": "vibevm/vibespecs/pub/reference/they-understand-or-agree-why-does-the-needed.md",
+      "heading": "A working mantra and the continuations it leaves open",
+      "line": 149,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/they-understand-or-agree-why-does-the-needed#a-working-mantra-and-the-continuations-it-leaves-open"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:9e606fb526b63a6b2644ac2396dabfe310787d61c39383981f641c7f7b3262b9",
+      "doc_path": "pub/reference/what-does-an-engineer-need-to-develop-for",
+      "file": "vibevm/vibespecs/pub/reference/what-does-an-engineer-need-to-develop-for.md",
+      "heading": "What does an engineer need to develop for future release work?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/what-does-an-engineer-need-to-develop-for#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:1994f53288eee944862eafe864e9e93f98a60a0c47cc9b93ca7796b0145f6aaa",
+      "doc_path": "pub/reference/what-should-a-small-engineering-team-develop",
+      "file": "vibevm/vibespecs/pub/reference/what-should-a-small-engineering-team-develop.md",
+      "heading": "What should a small engineering team develop, obtain, or delegate?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/what-should-a-small-engineering-team-develop#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:adf63d00c56bb269b4fa87d890f6cf9ea92306a946a2048945e5da9a490a6bec",
+      "doc_path": "pub/reference/why-examine-a-handover-that-arrives-on-time",
+      "file": "vibevm/vibespecs/pub/reference/why-examine-a-handover-that-arrives-on-time.md",
+      "heading": "Why examine a handover that arrives on time?",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng/pub/reference/why-examine-a-handover-that-arrives-on-time#root"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
